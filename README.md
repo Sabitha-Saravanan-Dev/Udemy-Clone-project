@@ -6,7 +6,7 @@ This is a simple, visually appealing webpage designed to showcase Udemy cloned w
 - Responsive layout
 - Course listings with images and descriptions
 - Simple navigation
-- 
+  
 ## Features
 Navigation Bar: Easy access to search, Cart, learning Journey.
 Displays a selection of courses with images, descriptions,andcourse prizes.
