@@ -14,13 +14,17 @@ Displays a selection of courses with images, descriptions,andcourse prizes.
 ## Footer Section
 
 -Contact Us
+
 -About Us
+
 -Blog ,Carrers and more....
 
 ## Technologies Used:
 
    -HTML5
+   
    -CSS
+   
    -Flex
 ## Contributing
 
