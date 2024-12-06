@@ -9,12 +9,16 @@
 ## Features
 Navigation Bar: Easy access to search, Cart, learning Journey.
 Displays a selection of courses with images, descriptions,andcourse prizes.
+## Footer Section
 
-Contact Form: Collects user information like name,number and email for inquiries or feedback.
+-Contact Us
+-About Us
+-Blog ,Carrers and more....
 ## Technologies Used:
--HTML5
--CSS
--Flex
+
+   -HTML5
+   -CSS
+   -Flex
 ## Contributing
 
 - You can see my portfolio website by visiting: 
