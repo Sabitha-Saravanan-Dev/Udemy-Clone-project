@@ -6,15 +6,22 @@ body{
     font-family: "Gabarito", serif;
     
 }
-.sale_image p {
+.sale_image {
     justify-content:center;
     align-items: baseline;
     height: 100px;
     width: 100px;
-    background-color: lightcoral;
     color: black;
 }
+.sale-image p{
 
+    width:300px;
+    height:50px;
+    justify-content: center;
+    border: solid black;}
+ .sale-image:hover p{
+    background-color:darkkhaki
+}
 .navbar{
     padding: 10px;
     display: flex;
@@ -146,8 +153,14 @@ margin: 10px;
     margin: 20px;
 }
 .Footer__two{
-    margin: 10px;
+    margin:20px;
     align-items: center;
     display:flex;
     justify-content:space-between;
+}
+.Footer__two h1{
+    
+    color: #A435f0;
+
+    
 }
